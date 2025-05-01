@@ -7,7 +7,7 @@ Este é um projeto desenvolvido para a disciplina de **Análise e Projeto de Sis
 
 ## Objetivo
 
-Criar um **plano de ações**, com base em aplicações de conceitos, pesquisas de mercado e análises de dados, para desenvolver uma encubadora de pequenos empreendedores.
+Criar um **plano de ações**, com base em aplicações de conceitos, pesquisas de mercado e análises de dados, para desenvolver uma incubadora de pequenos empreendedores.
 
 ## Justificativa
 
