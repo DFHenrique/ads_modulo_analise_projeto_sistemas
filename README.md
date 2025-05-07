@@ -25,7 +25,7 @@ O projeto será realizado, basicamente, através da união de bases teóricas so
 
 ## Conceitos Aplicados
 
-Seguem conceitos/bases teóricas que guiarão a elaboração do projeto:
+Sobre os conceitos e bases teóricas que guiarão a elaboração do projeto, temos:
 
 1. Modelagem de Negócios
 2. Modelos de Gestão
