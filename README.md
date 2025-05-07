@@ -1,5 +1,5 @@
 
-# PROJETO PARA A DISCIPLINA DE A.P.J - CASE: PEQUENOS EMPREENDEDORES
+# PROJETO PARA A DISCIPLINA DE A.P.S. - CASE: PEQUENOS EMPREENDEDORES
 
 Este é um projeto desenvolvido para a disciplina de **Análise e Projeto de Sistemas**, programado para ser entregue no fim do semestre.
 
